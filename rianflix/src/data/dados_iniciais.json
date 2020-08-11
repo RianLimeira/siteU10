@@ -29,10 +29,6 @@
           "titulo": "DiamondQuest",
           "url": "https://www.youtube.com/watch?v=pioZaPtlSgo"
         }  
-        {
-          "titulo": "SPELLBRAK",
-          "url": "https://www.youtube.com/watch?v=yG4Pk3ptpEs"
-        }  
 
       ]
     },
@@ -105,6 +101,14 @@
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      }
     }
   ]
 }
