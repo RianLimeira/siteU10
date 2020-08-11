@@ -50,7 +50,7 @@
       ]
     },
     
-    {
+   /* {
       "titulo": "Back End",
       "cor": "#00C86F",
       "link_extra": {
@@ -105,7 +105,7 @@
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
         }
       ]
-    },
+    },*/
     {
       "titulo": "Filmes",
       "cor": "orange",
@@ -157,8 +157,8 @@
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
-    },
-    {
+    }
+   /* {
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",
       "link_extra": {
@@ -185,7 +185,7 @@
         {
           "titulo": "Como aprender a programar?",
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
+        }*/
       ]
     }
   ]
